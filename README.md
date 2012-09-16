@@ -5,7 +5,7 @@ Some Theory - Linear Regression problem comes under Supervised Learning, in whic
 The Model uses Gradient descent algorithm, which uses partial derivative of cost function to find some values of Q0,Q1,....,Qn
 
 Consider you have a job site such as shine.com, naukri.com, etc.
-These have historical data of each employee - Employee1 have done btech from college ABC, have speciality in Java, have 2yrs of experience and wants a job with $30,000 a month
+These have historical data of each employee - Employee1 have done btech from college ABC, have speciality in Java, have 2yrs of experience and wants a job with $2,500 a month
 We can use this historical data to train our model and
 1. Predict salary for new employees
 2. Guiding students properly to take better career path
